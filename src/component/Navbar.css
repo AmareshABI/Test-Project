@@ -1,6 +1,6 @@
 /* src/Navbar.css */
 .navbar {
-    background-color: rgb(72, 0, 255);
+    background-color: #7a5f05;
     padding: 10px;
   }
   
@@ -11,7 +11,7 @@
   }
   
   .navbar .logo a {
-    color: #fff;
+    color: #e0e0e0;
     font-size: 24px;
     text-decoration: none;
   }
